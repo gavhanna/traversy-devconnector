@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { WSASYSCALLFAILURE } from 'constants';
 
 class Login extends Component {
   constructor() {
